@@ -28,5 +28,5 @@ Just type a creative prompt — and watch your words transform into stunning vis
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/VisionCraft.git
+   git clone https://github.com/subhasish20/VisionCraft.git
    cd VisionCraft
